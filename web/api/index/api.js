@@ -1,1 +1,0 @@
-document.getElementById("ds_top").innerHTML = "Huquqiy bilim kamolotga yetaklaydi";
