@@ -1,4 +1,5 @@
 
 HTML
 //////////////////////////////////////
-web/api/index/index.js manzilidagi Scriptga ulan
+web/api/index/index.js manzilidagi Scriptga ulangan
+web/api/index/index.js manzili 
