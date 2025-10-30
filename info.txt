@@ -1,3 +1,4 @@
 
 HTML
 //////////////////////////////////////
+web/api/index/index.js manzilidagi Scriptga ulan
