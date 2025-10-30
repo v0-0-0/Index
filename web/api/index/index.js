@@ -1,1 +1,1 @@
-document.getElementById("desktop").innerHTML = "Data analitika";
+document.getElementById("desktop").innerHTML = "";
