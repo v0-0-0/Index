@@ -1,1 +1,1 @@
-document.getElementById("desktop").innerHTML = "";
+document.getElementById("desktop").innerHTML = "<div id='ds_top";
