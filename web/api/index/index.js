@@ -1,0 +1,1 @@
+document.getElementById("desktop").innerHTML = "Data analitika";
