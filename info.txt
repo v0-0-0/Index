@@ -3,4 +3,5 @@ HTML
 //////////////////////////////////////
 HTML fayldagi <div elementi> [web/api/index/index.js] manzilidagi Scriptga ulangan.
 [web/api/index/index.js] manzili [web/api/index/api.js] uchun DOM vazifasini o'taydi.
-[web/api/index/api.js] Desktop, Planshet va Mobil bo'imlar uchun DOM vaz
+[web/api/index/api.js] Desktop, Planshet va Mobil bo'imlar uchun DOM vvazifasini o'taydi.
+web/api/index/Desktop.js
