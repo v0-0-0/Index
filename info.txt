@@ -1,5 +1,5 @@
 
 HTML
 //////////////////////////////////////
-web/api/index/index.js manzilidagi Scriptga ulangan
+HTML fayldagi [web/api/index/index.js] manzilidagi Scriptga ulangan
 web/api/index/index.js manzili web/api/index/api.js uchun DOM vazifasini o'taydi
