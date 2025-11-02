@@ -12,7 +12,7 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     position: relative;
     display: inline-block;
 }
-.tooltip,.tooltiptext {
+.tooltip.tooltiptext {
     visibility: hidden;
     background: #555;
     color: #fff;
@@ -23,10 +23,10 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     opacity: 0;
     transition: opacity 0.3s;
 }
-.tooltip,.tooltiptext::after {
+.tooltip.tooltiptext::after {
     content: "";
     position: absolute;
     border-style: solid;
     border-color: #555 transparent transparent transparent;
 }
-.tooltip:hover
+.tooltip:hover.too
