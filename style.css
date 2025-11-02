@@ -30,19 +30,9 @@ a#instagram {
   -webkit-text-fill-color: transparent;*/
 }
 a#facebook {
-    margin-top: 8px;
-    padding: 2px 24px;
-    border-radius: 50px;
     background: #1877f2;
-    color: #fff;
-    font-sizce: 16px;
-    font-weight: bold;
-    text-decoration: none;
 }
 a#twitter {
-    margin-top: 8px;
-    padding: 2px 24px;
-    border-radius: 50px;
     background: #000;
 }
 a#youtube {
