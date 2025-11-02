@@ -26,5 +26,5 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     left: 50%;
     margin-left: -60px;
     opacity: 0;
-    transition: opacity;
+    transition: opacity 0.3s;
 }
