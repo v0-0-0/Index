@@ -44,20 +44,11 @@ a#twitter {
     padding: 2px 24px;
     border-radius: 50px;
     background: #000;
-    color: #fff;
-    font-sizce: 16px;
-    font-weight: bold;
-    text-decoration: none;
 }
 a#youtube {
-    
-    
-    
     background: #ff0000;
-    
-    
 }
-#telegram,#instagram,#facebook,#twitter,#youtube {
+#telegram,#instagram,#facebook,#twitter,#youtube{
     margin-top: 8px;
     padding: 2px 24px;
     border-radius: 50px;
