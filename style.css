@@ -31,7 +31,7 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
 .tooltip,.tooltiptext::after {
     content: "";
     position: absolute;
-    top: 100%;
+ 
     left: 50%;
     margin-left: -5px;
     border-width: 5px;
