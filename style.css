@@ -11,5 +11,6 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
 .tooltip{
     position: relative;
     display: inline-block;
-    cur
+    cursor: pointer;
 }
+.tooltip:hover::a
