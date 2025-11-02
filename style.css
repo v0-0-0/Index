@@ -34,7 +34,7 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     top: 100%;
     left: 50%;
     margin-left: -5px;
-    
+    border-width: 5px;
     border-style: solid;
     border-color: #555 transparent transparent transparent;
 }
