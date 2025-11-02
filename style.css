@@ -21,6 +21,9 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     border-radius: 6px;
     padding: 5px 0;
     position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    
     opacity: 0;
     transition: opacity 0.3s;
 }
