@@ -6,23 +6,9 @@ body{margin:0}a{text-decoration:none}
 .logotip{padding-left:2px;font-size:26px;color:#02A4D3;font-family:"Oswald";font-weight:bold;-webkit-user-select:none;-ms-user-select:none;user-select:none}
 /* =============== DS Desktop ================ */
 a#telegram {
-    margin-top: 8px;
-    padding: 2px 24px;
-    border-radius: 50px;
     background: #24a1de;
-    color: #fff;
-    font-sizce: 16px;
-    font-weight: bold;
-    text-decoration: none;
 }
 a#instagram {
-    margin-top: 8px;
-    padding: 2px 22px;
-    border-radius: 50px;
-    color: #fff;
-    font-sizce: 16px;
-    font-weight: bold;
-    text-decoration: none;
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);/*
   -webkit-background-clip: text;
           /* Also define standard property for compatibility 
