@@ -50,7 +50,7 @@ a#twitter {
     text-decoration: none;
 }
 a#youtube {
-    margin-top: 8px;
+    
     padding: 2px 24px;
     border-radius: 50px;
     background: #ff0000;
@@ -59,4 +59,7 @@ a#youtube {
     font-weight: bold;
     text-decoration: none;
 }
-#telegram,#instagram,#facebook,#twitter,#youtube
+#telegram,#instagram,#facebook,#twitter,#youtube {
+    margin-top: 8px;
+    
+}
