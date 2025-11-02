@@ -28,4 +28,7 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     opacity: 0;
     transition: opacity 0.3s;
 }
-.tooltip,.tooltiptext::af
+.tooltip,.tooltiptext::after {
+    content: "";
+    
+}
