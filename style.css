@@ -51,8 +51,8 @@ a#twitter {
 }
 a#youtube {
     
-    padding: 2px 24px;
-    border-radius: 50px;
+    
+    
     background: #ff0000;
     color: #fff;
     font-sizce: 16px;
@@ -61,5 +61,7 @@ a#youtube {
 }
 #telegram,#instagram,#facebook,#twitter,#youtube {
     margin-top: 8px;
+    padding: 2px 24px;
+    border-radius: 50px;
     
 }
