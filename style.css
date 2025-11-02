@@ -16,7 +16,7 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
 .tooltip:hover::after {
     content: attr(data-tip);
     position: absolute;
-    bottom: 100%;
+    bottom: 70%;
     left: 50%;
     transform: translateX(-50%);
     background: #333;
