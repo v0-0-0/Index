@@ -5,7 +5,6 @@ body{margin:0}a{text-decoration:none}
 .top{position:fixed;width:100%;z-index:1;background:#fff;box-shadow:0 4px 4px 0 rgba(0,0,0,0.12),0 4px 4px 0 rgba(0,0,0,0.20)}.header{padding-top:6px;padding-left:22px;padding-bottom:5px}
 .logotip{padding-left:2px;font-size:26px;color:#02A4D3;font-family:"Oswald";font-weight:bold;-webkit-user-select:none;-ms-user-select:none;user-select:none}
 /* =============== DS Desktop ================ */
-a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)}a#facebook{background:#1877f2}a#twitter{background:#000}a#youtube{background:#ff0000}
-#telegram,#instagram,#facebook,#twitter,#youtube{margin-top:8px;padding:2px 24px;border-radius:50px;color:#fff;font-sizce:16px;font-weight:bold;text-decoration:none;
-    -webkit-user-select:none;-ms-user-select:none;user-select:none;
-}
+
+a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)}a#facebook{background:#1877f2}a#twitter{background:#000}a#youtube{background:#ff0000}#telegram,#instagram,#facebook,#twitter,#youtube{margin-top:8px;padding:2px 24px;border-radius:50px;color:#fff;font-sizce:16px;font-weight:bold;text-decoration:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}
+
