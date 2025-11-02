@@ -23,7 +23,7 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     transform: translateX(-50%);
     background: #555;
     color: #fff;
-    padding: 2px 18px;
+    padding: 2px 18px 4px;
     border-radius: 6px;
     font-size: 12px;
     white-space: nowrap;
