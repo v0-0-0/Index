@@ -30,5 +30,6 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     border-color: #555 transparent transparent transparent;
 }
 .tooltip:hover.tooltiptext{
-    visibility: vis;
+    visibility: visible;
+    opacity: 1;
 }
