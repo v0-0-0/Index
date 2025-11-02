@@ -12,4 +12,6 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     position: relative;
     display: inline-block;
 }
-.tooltip.tooltipte
+.tooltip .tooltiptext {
+    
+}
