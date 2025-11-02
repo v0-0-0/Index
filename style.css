@@ -15,5 +15,6 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
-    background: ;
+    background: #555;
+    color: #;
 }
