@@ -35,5 +35,6 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     left: 50%;
     margin-left: -5px;
     border-width: 5px;
-    border-style: sol;
+    border-style: solid;
+    border-color: #555 ;
 }
