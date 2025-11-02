@@ -13,5 +13,6 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
     display: inline-block;
 }
 .tooltip .tooltiptext {
-    
+    visibility: hidden;
+    wid
 }
