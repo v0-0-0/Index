@@ -16,9 +16,10 @@ a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 3
 /* =============== SM Mobil ================ */
 .sarlavha{font-size:21px;color:#02A4D3}.paragraph{font-size:20px}
 .kirish{
-    background: #000;
+    background: #333;
+    color: #fff;
     padding: 4px 32px;
-    border-radius: 50%;
+    border-radius: 50px;
 }
 
 
