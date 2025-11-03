@@ -7,11 +7,7 @@ body{margin:0}a{text-decoration:none}
 /* =============== DS Desktop ================ */
 
 a#telegram{background:#24a1de}a#instagram{background:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)}a#facebook{background:#1877f2}a#twitter{background:#000}a#youtube{background:#ff0000}#telegram,#instagram,#facebook,#twitter,#youtube{margin-top:8px;padding:2px 24px;border-radius:50px;color:#fff;font-sizce:16px;font-weight:bold;text-decoration:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}
-.tooltip{position:relative;display:inline-block;cursor:pointer}.tooltip:hover::after{content:attr(data-tip);position:absolute;bottom:80%;left:50%;
-    transform: translateX(-50%);
-    background: #555;
-    color: #fff;
-    padding: 3px 18px 2px;
+.tooltip{position:relative;display:inline-block;cursor:pointer}.tooltip:hover::after{content:attr(data-tip);position:absolute;bottom:80%;left:50%;transform:translateX(-50%);background:#555;color:#fff;padding:3px 18px 2px;
     border-radius: 6px;
     font-size: 12px;
     white-space: nowrap;
