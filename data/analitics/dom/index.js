@@ -1,4 +1,4 @@
-document.getElementById("desktop").innerHTML = "";
+document.getElementById("desktop").innerHTML = "<div id='ds_'></div>";
 
 
 document.getElementById("").innerHTML = "";
