@@ -1,4 +1,4 @@
-document.getElementById("").innerHTML = "";
+document.getElementById("desktop").innerHTML = "";
 
 
 document.getElementById("").innerHTML = "";
