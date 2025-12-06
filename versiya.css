@@ -97,4 +97,7 @@ body {
   .left::after, .right::after {
   left: 15px;
   }
-  
+  .right {
+  left: 0%;
+  }
+}
