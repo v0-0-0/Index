@@ -78,3 +78,13 @@ body {
   position: relative;
   border-radius: 6px;
 }
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
